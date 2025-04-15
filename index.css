@@ -1,0 +1,41 @@
+.head {
+    background-color: #994C00;
+    color: black;
+    text-align: center;
+    padding: 30px ;
+    font-size: 20px;
+}
+
+ .navbar {
+    background-color: #D2A05A;
+    text-align: center;
+    padding: 10px ;
+}
+
+.navbar a {
+    margin: 20px;
+    text-decoration: none;
+    color: green;
+    font-weight:800;
+    font-size: 15px;
+}
+
+.content {
+    background-color: #D2A05A;
+    padding: 20px;
+}
+
+.content h2 {
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+}
+
+.content p {
+    font-size: 20px;
+    color: #5E2C00;
+}
+.content p:last-child {
+    color: black;
+}
+
